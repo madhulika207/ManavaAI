@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+numpy
+transformers
+language_tool_python
+textstat
+matplotlib
+tqdm
+pydantic
